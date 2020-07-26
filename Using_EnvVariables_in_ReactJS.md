@@ -15,7 +15,14 @@ In a ReactJS application defining and using environment variables is a little di
 
 4. Now, these environment variables can easily be assigned to other variables or print them to the screen etc. They are read-only to other Javascript files.
 
-![Defining Variables](/Images/UsingVariables.png)
+![Using Variables](/Images/UsingVariables.png)
+
+5. Next add the .env file to .gitignore file. This is usually done, so that API Keys and other sensitive information is safe and not exposed.
+
+![Update .gitIgnore filw Variables](/Images/gitignoreFile.png)
+
+
+
 
 
 
